@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
@@ -21,8 +20,9 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                I'm <br></br>
+                <strong className="main-name">WingsofSoteria</strong>
+
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
